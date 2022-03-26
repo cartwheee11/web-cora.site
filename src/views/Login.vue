@@ -13,7 +13,7 @@
           <p class="login-button-p">
             <button class="login-button">Войти</button>
           </p>
-          <p>Если у вас возникли проблемы со входом, cожалею</p>
+          <p>Если у вас возникли проблемы со входом, cожалею.</p>
         </div>
       </div>
     </div>
